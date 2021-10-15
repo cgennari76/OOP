@@ -106,4 +106,3 @@ class Drive
 end
 
 drive = Drive.new
-drive.go
